@@ -7,7 +7,7 @@ The slide deck is here...
 [Microsoft Web Stack - Whats New.pptx](Microsoft Web Stack - Whats New.pptx)
 
 
-The projects for my 2 demos are here:
+The projects from my 2 demos are here:
 
 * https://github.com/anthonychu/Aspnet5Demo
 * https://github.com/anthonychu/HelloAllWorlds
